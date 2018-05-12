@@ -1,0 +1,29 @@
+_repo: Mimi-at-Sheridan-School_46404
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 46404-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Davis, Anne Pence
+    alias: Pence Davis, Anne
+    gutenberg_agent_id: '43762'
+    url: http://www.gutenberg.org/2009/agents/43762
+description: ''
+gutenberg_issued: '2014-07-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46404'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Boarding schools -- Juvenile fiction'
+title: Mimi at Sheridan School
+url: http://www.gutenberg.org/ebooks/46404
